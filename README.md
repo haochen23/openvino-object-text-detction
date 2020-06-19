@@ -1,0 +1,1 @@
+# openvino-object-text-detction
